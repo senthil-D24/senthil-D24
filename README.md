@@ -6,9 +6,11 @@
   <a href="https://github.com/senthil-D24" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
   </a>
@@ -59,8 +61,9 @@
 
 <h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=senthil-D24&show_icons=true&theme=dark&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=senthil-D24&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=senthil-D24&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&hide_border=false" height="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=senthil-D24&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=cccccc&dates=cccccc&hide_border=false" height="150" />
 </p>
 
 <div align="center"> 
