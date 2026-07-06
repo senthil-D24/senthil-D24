@@ -56,8 +56,8 @@
 
 <h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senthil-D24&show_icons=true&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senthil-D24&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=senthil-D24&show_icons=true&theme=dark&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=senthil-D24&theme=dark&hide_border=false" height="150" />
 </p>
 
 <div align="center"> 
