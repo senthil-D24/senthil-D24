@@ -1,14 +1,16 @@
-<img src = "githubanner.png"/>
+<p align="center">
+  <img src="githubanner.png" width="100%" />
+</p>
 
 <p align="center">
+  <a href="https://github.com/senthil-D24" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/senthil-D24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
   </a>
 </p>
 
@@ -36,20 +38,21 @@
 
 <br/>
 <br/>
-<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center">Tech Stack</h2>
 
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="imgs/badges/python.svg" alt="Python" />
-  <img src="imgs/badges/javascript.svg" alt="JavaScript" />
-  <img src="imgs/badges/fastapi.svg" alt="FastAPI" />
-  <img src="imgs/badges/html5.svg" alt="HTML5" />
-  <img src="imgs/badges/css3.svg" alt="CSS3" />
-  <img src="imgs/badges/react.svg" alt="React" />
-  <img src="imgs/badges/nodedotjs.svg" alt="Node.js" />
-  <img src="imgs/badges/git.svg" alt="Git" />
-  <img src="imgs/badges/sqlite.svg" alt="SQLite" />
-  <img src="imgs/badges/mysql.svg" alt="MySQL" />
-  <img src="imgs/badges/postgresql.svg" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,kotlin,java,cpp" />
+</p>
+
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+<p align="center"><strong>Backend & Database</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgres,sqlite" />
 </p>
 
 <br/>
@@ -57,7 +60,7 @@
 <h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=senthil-D24&show_icons=true&theme=dark&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=senthil-D24&theme=dark&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=senthil-D24&theme=dark&hide_border=false" height="150" />
 </p>
 
 <div align="center"> 
