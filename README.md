@@ -39,17 +39,17 @@
 <h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="imgs/badges/python.svg" alt="Python" />
+  <img src="imgs/badges/javascript.svg" alt="JavaScript" />
+  <img src="imgs/badges/fastapi.svg" alt="FastAPI" />
+  <img src="imgs/badges/html5.svg" alt="HTML5" />
+  <img src="imgs/badges/css3.svg" alt="CSS3" />
+  <img src="imgs/badges/react.svg" alt="React" />
+  <img src="imgs/badges/nodedotjs.svg" alt="Node.js" />
+  <img src="imgs/badges/git.svg" alt="Git" />
+  <img src="imgs/badges/sqlite.svg" alt="SQLite" />
+  <img src="imgs/badges/mysql.svg" alt="MySQL" />
+  <img src="imgs/badges/postgresql.svg" alt="PostgreSQL" />
 </p>
 
 <br/>

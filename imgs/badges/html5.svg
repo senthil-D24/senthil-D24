@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="35" viewBox="0 0 98 35">
+  <!-- Rounded border with white background -->
+  <rect x="1" y="1" width="96" height="33" rx="6" fill="#ffffff" stroke="#E34F26" stroke-width="2" />
+  
+  <!-- Logo container translated and scaled -->
+  <g fill="#E34F26" transform="translate(10, 7.5) scale(0.833)">
+    <path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/>
+  </g>
+  
+  <!-- Text label -->
+  <text x="38" y="21.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="800" fill="#111111" letter-spacing="1.5">HTML5</text>
+</svg>
