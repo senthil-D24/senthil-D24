@@ -2,7 +2,7 @@
   <img src="githubanner.png" width="100%" />
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi,+I'm+Senthil;Software+Engineer;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi,+I'm+Senthil+Kumar+D;Software+Engineer+%26+Web+Developer;Building+Clean+%26+Scalable+Web+Apps" alt="Typing SVG" />
 </p>
 
 <a href="https://github.com/senthil-D24">
