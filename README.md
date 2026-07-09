@@ -11,15 +11,15 @@
 
 <p align="center">
   <a href="https://instagram.com/hey_itz_me_sk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/core/icons/social/instagram/colored.svg" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/senthilkumar-d-a42b7832a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/core/icons/social/linked-in/colored.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
   </a>
-
-  <a href="mailto:senthilkumar.dayanithi@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/core/icons/social/gmail/colored.svg" alt="Gmail" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:senthilkumar.dayanithi@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="170" height="1" />
 </p>
