@@ -10,16 +10,16 @@
 </a>
 
 <p align="center">
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+  <a href="https://instagram.com/hey_itz_me_sk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/core/icons/social/instagram/colored.svg" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/senthilkumar-d-a42b7832a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/core/icons/social/linked-in/colored.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+
+  <a href="mailto:senthilkumar.dayanithi@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/core/icons/social/gmail/colored.svg" alt="Gmail" width="40" height="40" />
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="170" height="1" />
 </p>
