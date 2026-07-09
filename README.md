@@ -1,10 +1,17 @@
 <p align="center">
   <img src="githubanner.png" width="100%" />
+  <br/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi,+I'm+Senthil;Software+Engineer;Web+Developer" alt="Typing SVG" />
 </p>
 
+<a href="https://github.com/senthil-D24">
+  <img src="imgs/pinterest_cat_v6.gif" align="left" width="150" style="margin-right: 20px; border-radius: 12px;" alt="Cat Profile" />
+</a>
+
 <p align="center">
-  <a href="https://github.com/senthil-D24" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
@@ -14,6 +21,7 @@
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
   </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="170" height="1" />
 </p>
 
 
