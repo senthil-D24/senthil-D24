@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi,+I'm+Senthil+Kumar+D;Software+Engineer+%26+Web+Developer;Building+Clean+%26+Scalable+Web+Apps" alt="Typing SVG" />
 </p>
 
-<a href="https://github.com/senthil-D24">
-  <img src="imgs/pinterest_cat_v6.gif" align="left" width="150" style="margin-right: 20px; border-radius: 12px;" alt="Cat Profile" />
-</a>
-
 <p align="center">
   <a href="https://instagram.com/hey_itz_me_sk" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
